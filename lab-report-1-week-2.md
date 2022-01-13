@@ -1,4 +1,4 @@
 
 hello
 
-![testscreenshot.JPG]
+![Image](testscreenshot.JPG)
