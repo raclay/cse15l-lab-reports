@@ -60,7 +60,8 @@ class heyThere {
 }
 ```
 
-Into the command line, from the directory in which you saved your file, again replacing xxx, type
-`scp heyThere.java cse15lwi22xxx@ieng6.ucsd.edu:~/`
+Into the command line, from the directory in which you saved your file, again replacing xxx,
+
+type `scp heyThere.java cse15lwi22xxx@ieng6.ucsd.edu:~/`
 
 
