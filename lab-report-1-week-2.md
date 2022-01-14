@@ -46,3 +46,5 @@ Typing in `ls` will "list" the files found within the current directory
 ![remote](https://user-images.githubusercontent.com/97620200/149455882-25b968ce-f457-49e7-a36e-f0738850f953.jpg)
 
 
+## Moving Files with `scp`
+
