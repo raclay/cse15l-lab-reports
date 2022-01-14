@@ -68,5 +68,19 @@ Now, using `ls` we will see the new file
 
 ![scp](https://user-images.githubusercontent.com/97620200/149457421-e9e3c596-fccd-4f43-81bb-9a3cd285e058.jpg)
 
+## Setting an SSH Key
+
+In the terminal on your computer
+
+Type `ssh-keygen` to generate an SSH Key
+
+In this case, we want to remove the need to type in our account password each time
+
+When the terminal prints `Enter file in which to save the key (/Users/Rachel/.ssh/id_rsa):` press the enter key
+
+Likewise press the enter key in response to `Enter passphrase (empty for no passphrase):`
+
+and again when we see `Enter same passphrase again:`
+
 
 
