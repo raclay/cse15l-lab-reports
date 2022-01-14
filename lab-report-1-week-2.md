@@ -10,3 +10,14 @@ Once the application is open, it will look like this, and we can now create new 
   
 
 ![vscode open](https://user-images.githubusercontent.com/97620200/149451427-65845644-fb69-4e7a-a422-5d862243bed0.jpg)
+
+## Remotely Connecting
+To remotely connect we have to first install OpenSSH
+
+Go into your computer **Settings > Apps > Apps & Features > Add a feature**
+
+Now you should install OpenSSH Client and OpenSSH Server
+/
+/
+Using this [link](https://sdacs.ucsd.edu/~icc/index.php) we can lookup the course specific account tied to your student username and ID
+
