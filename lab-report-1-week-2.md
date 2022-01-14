@@ -26,6 +26,8 @@ With VSCode open, we need to open a new terminal
 
 Your account for CSE 15l, taken Winter of 2022, will look like cs15lwi22xxx
 
+with your own unique combination of letters to replace xxx
+
 To connect to the ieng6 server at UCSD, we need to type the following code
 
 ```
@@ -45,6 +47,20 @@ Typing in `ls` will "list" the files found within the current directory
 
 ![remote](https://user-images.githubusercontent.com/97620200/149455882-25b968ce-f457-49e7-a36e-f0738850f953.jpg)
 
+Typing `exit` will return you to your own computer
 
 ## Moving Files with `scp`
+
+If we create a new file named `heyThere.java` with the contents
+```
+class heyThere {
+    public static void main(String[] args){
+        System.out.println("Hey! Hello! Hi there!");
+    }
+}
+```
+
+Into the command line, from the directory in which you saved your file, again replacing xxx, type
+`scp heyThere.java cse15lwi22xxx@ieng6.ucsd.edu:~/`
+
 
