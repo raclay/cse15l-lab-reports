@@ -70,17 +70,28 @@ Now, using `ls` we will see the new file
 
 ## Setting an SSH Key
 
-In the terminal on your computer
-
-Type `ssh-keygen` to generate an SSH Key
+In the terminal on your computer, type `ssh-keygen` to generate an SSH Key
 
 In this case, we want to remove the need to type in our account password each time
 
-When the terminal prints `Enter file in which to save the key (/Users/Rachel/.ssh/id_rsa):` press the enter key
+When the terminal prints `Enter file in which to save the key (C:\Users\Rachel/.ssh/id_rsa):` press the enter key
+
+![keygen](https://user-images.githubusercontent.com/97620200/149459430-b436bcd7-7d1f-458a-a3a0-1d1d075b03f9.jpg)
+
 
 Likewise press the enter key in response to `Enter passphrase (empty for no passphrase):`
 
 and again when we see `Enter same passphrase again:`
 
+Windows devices require additional steps [ssh-add](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
 
+Now, after the `ssh cs15lwi22xxx@ieng6.ucsd.edu` command, the terminal will no longer ask for a password
+
+## Optimizing Remote Running
+
+Instead of using multiple commands to first `ssh` to a remote server then use the `ls` command to list the files in the directory, we can use one line in the terminal
+
+Typing `ssh cs15lwixxx@ieng6.ucsd.edu "ls"` will do both steps at once
+
+![optimize](https://user-images.githubusercontent.com/97620200/149460558-97b90233-f54b-4b72-b521-7d10e243f6ee.jpg)
 
