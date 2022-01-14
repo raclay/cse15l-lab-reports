@@ -1,4 +1,5 @@
 # Lab Report 1
+Rachel Claypool
 
 ## Installing VScode
 To download the code editor for this class use this link: [DOWNLOAD](https://code.visualstudio.com/)  
