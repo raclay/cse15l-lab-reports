@@ -17,7 +17,6 @@ To remotely connect we have to first install OpenSSH
 Go into your computer **Settings > Apps > Apps & Features > Add a feature**
 
 Now you should install OpenSSH Client and OpenSSH Server
-/
-/
+
 Using this [link](https://sdacs.ucsd.edu/~icc/index.php) we can lookup the course specific account tied to your student username and ID
 
