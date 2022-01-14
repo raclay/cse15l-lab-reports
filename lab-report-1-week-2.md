@@ -33,4 +33,10 @@ ssh cs15lwi22xxx@ieng6.ucsd.edu
 ```
 If you are then prompted to enter a password, this should be the password for your UCSD account, which will be veiled as you type
 
+## Trying Some Commands
+Now that your personal device is remotely connected to a UCSD server we can try basic commands
+
+`cd` stands for "change directory"
+
+Typing in `cd ~` will take you back to the home or default directory
 
