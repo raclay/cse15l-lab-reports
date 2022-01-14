@@ -31,3 +31,6 @@ To connect to the ieng6 server at UCSD, we need to type the following code
 ```
 ssh cs15lwi22xxx@ieng6.ucsd.edu
 ```
+If you are then prompted to enter a password, this should be the password for your UCSD account, which will be veiled as you type
+
+
