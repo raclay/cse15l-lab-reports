@@ -37,6 +37,9 @@ ssh cs15lwi22xxx@ieng6.ucsd.edu
 ```
 If you are then prompted to enter a password, this should be the password for your UCSD account, which will be veiled as you type
 
+![password](https://user-images.githubusercontent.com/97620200/149461846-9c587222-0add-46cd-8540-2e2b1dbe483e.jpg)
+
+
 ## Trying Some Commands
 Now that your personal device is remotely connected to a UCSD server we can try basic commands
 
@@ -45,7 +48,6 @@ Now that your personal device is remotely connected to a UCSD server we can try 
 Typing in `cd ~` will take you back to the home or default directory
 
 Typing in `ls` will "list" the files found within the current directory
-![password](https://user-images.githubusercontent.com/97620200/149461560-bd6fb568-4d07-412f-9344-1018f34bc0db.jpg)
 
 
 ![remote](https://user-images.githubusercontent.com/97620200/149461575-3c34c0fe-dc86-4c94-9908-522086e4dcfb.jpg)
