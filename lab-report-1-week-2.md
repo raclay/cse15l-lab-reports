@@ -64,4 +64,9 @@ Into the command line, from the directory in which you saved your file, again re
 
 type `scp heyThere.java cse15lwi22xxx@ieng6.ucsd.edu:~/`
 
+Now, using `ls` we will see the new file
+
+![scp](https://user-images.githubusercontent.com/97620200/149457421-e9e3c596-fccd-4f43-81bb-9a3cd285e058.jpg)
+
+
 
