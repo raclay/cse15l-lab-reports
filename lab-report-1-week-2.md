@@ -40,3 +40,7 @@ Now that your personal device is remotely connected to a UCSD server we can try 
 
 Typing in `cd ~` will take you back to the home or default directory
 
+Typing in `ls` will "list" the files found within the current directory
+
+![remote](https://user-images.githubusercontent.com/97620200/149455470-81f98e9d-440e-4d3b-95c2-c48a4ef00c1d.jpg)
+
