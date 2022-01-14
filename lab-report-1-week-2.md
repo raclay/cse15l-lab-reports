@@ -1,4 +1,6 @@
+# Lab Report 1
 
-hello
+## Installing VScode
+To download the code editor for this class use this link: [Link](https://code.visualstudio.com/)
 
-![Image](desktop.JPG)
+
