@@ -83,7 +83,7 @@ Likewise press the enter key in response to `Enter passphrase (empty for no pass
 
 and again when we see `Enter same passphrase again:`
 
-Windows devices require additional steps [ssh-add](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
+Windows devices require additional steps: [ssh-add](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
 
 Now, after the `ssh cs15lwi22xxx@ieng6.ucsd.edu` command, the terminal will no longer ask for a password
 
