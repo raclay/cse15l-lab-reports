@@ -16,3 +16,5 @@ add a substring to the ArrayList of toReturn that did not exist because the open
 a specific index.  To resolve this problem, I  checked the value of the next open bracket and if the character was 
 not found, then toReturn was returned without calling an add function.
 
+## Second Bug
+
