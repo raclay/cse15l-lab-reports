@@ -30,3 +30,5 @@ The second bug I fixed was the program's response to a markdown file with an ima
 the program was to return an ArrayList of Strings, strings that are found between parantheses.  We did not want the title
 of the image file to be added to our ArrayList, so I had to change the code to check for a '!' character before the opening
 bracket and skip to the next iteration without retaining the link.
+
+## Third Bug
