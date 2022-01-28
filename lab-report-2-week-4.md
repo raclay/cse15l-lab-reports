@@ -38,7 +38,7 @@ A file with links and empty lines after the last link:
 [test1](https://github.com/raclay/markdown-parse/blob/main/test1.md?plain=1)
 
 
-![symtpom 2](https://user-images.githubusercontent.com/97620200/151495438-ab063d64-85a5-4d87-b2b1-528cf574af15.jpg)
+![symptom3](https://user-images.githubusercontent.com/97620200/151498290-51792537-0036-4c84-a138-71a4237a0e0e.jpg)
 
 The third bug I fixed was the program's response to a markdown file that had a few blank lines under the last link, 
 meaning that the last currentIndex which was set to the next paranethesis + 1, would not cause the loop to stop because 
