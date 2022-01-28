@@ -20,7 +20,7 @@ not found, then toReturn was returned without calling an add function.
 ## Second Bug
 ![fix2](https://user-images.githubusercontent.com/97620200/151491802-3c4182b4-69d4-43fb-b5f2-57cee078a94e.jpg)
 
-A file with links and an image caused an error:
+A file with links and an image caused an unwanted output:
 [myTest](https://github.com/raclay/markdown-parse/blob/main/myTest.md?plain=1)
 
 
