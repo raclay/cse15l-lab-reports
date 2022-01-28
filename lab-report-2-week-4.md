@@ -1,9 +1,8 @@
 Rachel Claypool
 # Lab Report 2
 
-
 ## First Bug
-![fix1](https://user-images.githubusercontent.com/97620200/151439793-0cdd4dfe-4d86-4481-b10e-e034488e40ff.jpg)
+![fix1](https://user-images.githubusercontent.com/97620200/151499859-9f7017b7-b730-4da3-9cde-db7694201eb7.jpg)
 
 A file without any links caused an error:
 [test3](https://github.com/raclay/markdown-parse/blob/main/test3.md?plain=1)
@@ -46,8 +45,9 @@ currentIndex was no longer less than the length of the markdown file.  This sent
 the next open bracket could not be found.  Checking immediately after the open bracket is defined resolved the isssue.
 
 In fact, this third fix would also resolve the problem that arose with the first failure-inducing test.  Meaning, the 
-added code in the first fix could be replaced with this third fix.  Both changes to the code are not needed to fix the 
-behavior when the method is called on a markdown file with no links or a file with links and lines of whitespace underneath.
+added code in the first fix could be replaced by this third fix.  Both changes to the code fix each bug but are not both 
+needed to fix the behavior when the method is called on a markdown file with no links or a file with links and 
+lines of whitespace underneath.
 
 ![fix1 3](https://user-images.githubusercontent.com/97620200/151498043-f0471c5f-5d83-4bfc-aaca-bcf0ef0e4ec0.jpg)
 
