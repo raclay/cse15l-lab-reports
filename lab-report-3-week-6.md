@@ -20,4 +20,4 @@ If I still was having a difficult time remembering ieng6, and wanted my alias to
 
 ## Using the scp command
 ![newfile](https://user-images.githubusercontent.com/97620200/153480510-b7e7abee-4a3b-44b5-af43-c7f2d963105b.jpg)
-I changed my alias back to ieng6, so when I want to copy a file from my personal laptop to my account, I need only type `scp newFile.java ieng6:~/`.  I need to be in the directory on my laptop containing newFile.java and I will successfully find my new file in my remote account.
+I changed my alias back to ieng6, so when I want to copy a file from my personal laptop to my account, I need only type `scp newFile.java ieng6:~/`.  I need to be in the directory on my laptop containing newFile.java when I do this.  If I wanted to verify that I successfully copied my new file in my remote account, I can use `ssh ieng6` then type in `ls` and find my newFile.java among the others.
