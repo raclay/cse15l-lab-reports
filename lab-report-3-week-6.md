@@ -1,6 +1,5 @@
 Rachel Claypool
-# Lab Report 3
-## Streamlining ssh Configuration
+# Lab Report 3: Streamlining ssh Configuration
 
 
 ## ssh Configuration
