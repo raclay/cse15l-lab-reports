@@ -10,7 +10,7 @@ Inside C:\Users\Rachel\.ssh I added a file called config.  Even though it only c
 
 ## Logging in
 ![ssh](https://user-images.githubusercontent.com/97620200/153480491-b78d50db-98d9-4a97-9698-7085c1eb0bd9.jpg)
-Now, all I need to do is type into the command line 'ssh ieng6' 
+Now, all I need to do is type into the command line `ssh ieng6` 
 
 ## Using the scp command
 ![newfile](https://user-images.githubusercontent.com/97620200/153480510-b7e7abee-4a3b-44b5-af43-c7f2d963105b.jpg)
