@@ -49,3 +49,14 @@ My file did not pass the third test
 
 The file I reviewed did not pass the third test
 ![theirlab4test3](https://user-images.githubusercontent.com/97620200/155600114-52899834-eb68-494d-b685-e8b3ab57bb8d.jpg)
+
+-----
+## Snippet 1 Code Change
+I think that there should be a decently small code change to make my program work for snippet 1 and other markdown files that contain inline code.  Similar to the program's ability to isolate the text within parantheses to list off links, maybe creating new variables for the backticks that signify the beginning and ending of embedded code would allow the program to keep that code out of the list of links that get returned.  For other embedded code blocks using the three backticks, the code would have to check for the beginning and ending three consecutive backticks and skip over the code between them.
+
+## Snippet 2 Code Change
+
+
+## Snippet 3 Code Change
+I think that there should be a decently small code change to make my program workd for snippet 3 and other 
+markdown files that contain newline characters within the brackets and parantheses.  If we have the program check the character right before the closed paranthesis  
