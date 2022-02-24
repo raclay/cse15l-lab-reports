@@ -10,7 +10,8 @@ Rachel Claypool
 
 According to the demo site, the valid link is [`google.com]
 
-However, knowing that ` is an unsafe character in a url, we would want our program to return [google.com] 
+However, knowing that ` is an unsafe character in a url, we would want our program to return [google.com], the other
+links are found within embedded code, which we do not want our function to recognize as a link.
 ![lab4test1](https://user-images.githubusercontent.com/97620200/155598199-1ba5aa68-a912-4ec7-9a58-8d0e8f0beb11.jpg)
 
 My file did not pass the first test
