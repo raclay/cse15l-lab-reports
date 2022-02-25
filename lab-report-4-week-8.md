@@ -13,11 +13,11 @@ According to the demo site, the valid link is [`google.com]
 
 
 My file did not pass the first test
-![mylab4fail1](https://user-images.githubusercontent.com/97620200/155599142-8b37eda7-bf05-4441-bcab-ad7229651712.jpg)
+![mylab4fail1](https://user-images.githubusercontent.com/97620200/155635848-217fcc76-193e-4324-96c6-16395ff43a67.jpg)
 
 
 The file I reviewed did not pass the first test
-![theirlab4test1](https://user-images.githubusercontent.com/97620200/155599999-b09bcf9f-1979-4f7c-ad6e-20e012e3d928.jpg)
+![theirlab4test1](https://user-images.githubusercontent.com/97620200/155635875-ff4edcd9-e6bb-4b2c-b1dd-99d9935d3612.jpg)
 
 
 # Test 2
