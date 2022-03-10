@@ -34,7 +34,7 @@ To fix my implementation, I would have to add an additional check to indentify s
 bar>)
 ```
 
-Given the contents fo test 490, the correct output is Joe's, MarkdownParse should return an empty list.
+Given the contents for test 490, the correct output is Joe's, MarkdownParse should return an empty list.
 
 
 Joe's implementation
