@@ -27,6 +27,8 @@ To fix my implementation, I would have to add an additional check to indentify s
 
 
 ## Test 490
-`[link](<foo`
-`bar>)`
+```
+[link](<foo
+bar>)
+```
 
