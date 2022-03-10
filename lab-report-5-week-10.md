@@ -24,7 +24,7 @@ My implementation
 
 To fix my implementation, I would have to add an additional check to indentify spaces within the text in parantheses.  There currently is a check for a space, but only when it is identified that the nextOpenBracket is not equal to zero.  The additional check needs to be copied and pasted inside the else statement.
 
-![fix code](https://user-images.githubusercontent.com/97620200/157755191-0947909d-8cd1-401c-a833-e149cb0592a8.jpg)
+![fix code](https://user-images.githubusercontent.com/97620200/157756083-d608800e-63e0-4f9b-963c-42a6fc94f18e.jpg)
 
 
 
@@ -52,5 +52,6 @@ To fix my implementation, I would have to add an additional check to identify an
 if(! markdown.substring(openParen + 1, closeParen).contains(" ") && ! markdown.substring(openParen + 1, closeParen).contains("\n"))
 ```
 
-![fix code](https://user-images.githubusercontent.com/97620200/157755531-204221c4-226b-4741-9944-6086af6abd5d.jpg)
+![fix code2](https://user-images.githubusercontent.com/97620200/157756125-01b8554e-f920-4fa2-9fbd-c5f764f3393d.jpg)
+
 
